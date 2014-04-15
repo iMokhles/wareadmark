@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = WAReadMarkPrefs;
+		cell = PSLinkCell;
+		detail = "WAReadMarkPrefsListController";
+		icon = "WAReadMarkPrefs.png";
+		isController = 1;
+		label = WAReadMark;
+	};
+}

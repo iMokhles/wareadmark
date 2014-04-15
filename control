@@ -1,0 +1,9 @@
+Package: com.iosdevt.WAReadMark
+Name: WAReadMark
+Depends: mobilesubstrate
+Version: 1.0~rc1
+Architecture: iphoneos-arm
+Description: disable readMark in WhatsApp
+Maintainer: iDevT
+Author: iDevT
+Section: Tweaks
